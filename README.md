@@ -92,7 +92,7 @@ Le statistiche si azzerano quando chiudi il programma.
 ### Opzione 2: aprirlo con Visual Studio
 
 ```bash
-git clone ttps://github.com/Valeteam/INDOVINA-IL-NUMERO-.git
+git clone https://github.com/Valeteam/INDOVINA-IL-NUMERO-.git
 ```
 
 1. Apri il file `.sln` con Visual Studio.
