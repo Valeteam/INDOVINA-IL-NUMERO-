@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\IndovinaIlNumero\bin\Debug\IndovinaIlNumero.exe.config
+C:\Users\Admin\source\repos\IndovinaIlNumero\bin\Debug\IndovinaIlNumero.exe
+C:\Users\Admin\source\repos\IndovinaIlNumero\bin\Debug\IndovinaIlNumero.pdb
+C:\Users\Admin\source\repos\IndovinaIlNumero\obj\Debug\IndovinaIlNumero.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IndovinaIlNumero\obj\Debug\IndovinaIlNumero.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IndovinaIlNumero\obj\Debug\IndovinaIlNumero.exe
+C:\Users\Admin\source\repos\IndovinaIlNumero\obj\Debug\IndovinaIlNumero.pdb
