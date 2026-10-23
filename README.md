@@ -100,28 +100,13 @@ git clone https://github.com/TUO-UTENTE/NOME-REPOSITORY.git
 
 ---
 
-## 🗂️ Struttura del progetto
-
-```text
-.
-├── Program.cs     # tutto il gioco: menù, livelli, statistiche
-├── README.md      # questo file
-└── ...            # file di progetto generati da Visual Studio
-```
-
----
-
 ## 🛠️ Cose da migliorare
 
 Idee e miglioramenti previsti:
 
 - [ ] Gestione degli input non numerici (oggi scrivere lettere al posto di un numero fa chiudere il programma).
-- [ ] Aiuto di vicinanza più preciso (considerare la distanza reale dal numero segreto).
+- [ ] Aiuto di vicinanza più preciso.
 - [ ] Risposte `SI` / `NO` in italiano, oltre a `YES` / `NO`.
-- [ ] Messaggi più incoraggianti durante la partita.
-- [ ] Colori e testi più leggibili, per chi ha difficoltà visive.
-- [ ] Meno testo da digitare, per chi ha difficoltà motorie.
-- [ ] Riorganizzare il codice dei quattro livelli in un unico metodo, per evitare ripetizioni.
 - [ ] Versione che funzioni anche su macOS e Linux (migrazione a .NET moderno).
 
 ---
@@ -140,4 +125,4 @@ In alternativa, apri una **Issue** per segnalare un problema o proporre un'idea.
 
 ## 📄 Licenza
 
-Da definire. Se vuoi che altri possano usare e modificare il gioco, aggiungi un file `LICENSE` (ad esempio la licenza MIT, che puoi scegliere direttamente da GitHub).
+Distribuito con licenza **MIT**. Consulta il file [LICENSE](LICENSE) per i dettagli.
